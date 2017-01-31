@@ -1,2 +1,2 @@
-# entityVisualizer
-nodejs web front end for Interactive Entities
+# react-express-boilerplate
+my boilerplate
